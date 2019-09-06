@@ -220,7 +220,7 @@ def evaluate_all_image():
     print("--- Testing time is: %s seconds ---" % (time.time() - start_time))
  
 #%%
-#run_training()
-evaluate_all_image()
+# run_training()
+# evaluate_all_image()
 
 
