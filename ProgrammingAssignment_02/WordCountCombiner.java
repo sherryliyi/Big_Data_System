@@ -1,3 +1,5 @@
+// Reference from: http://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html#Example:_WordCount_v2.0
+
 import java.io.IOException;
 import java.util.StringTokenizer;
 import java.util.concurrent.TimeUnit;
